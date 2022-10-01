@@ -9,13 +9,6 @@ export function Task(){
                 Criar
                 <PlusCircle size={20} />
             </a>
-
-            <div className={styles.taskListStatus}>
-                <strong>Tarefas criadas</strong>
-                <strong>Concluídas</strong>
-            </div>
-            
-            
         </div>
     )
 }

@@ -1,0 +1,31 @@
+.taskListStatus {
+    margin-top: -2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 2rem;
+    gap: 164px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+
+  .taskListStatus strong {
+    color: #8284FA;
+  }
+
+  .taskListStatus .taskCreate {
+    color: #4EA8DE;
+  }
+
+  .taskListStatus strong span {
+    background: var(--gray-400);
+    color: var(--white);
+    border-radius: 9px;
+    height: 50px;
+    padding: 0 0.5rem;
+    margin-left: 0.4rem;
+  }
+

@@ -60,22 +60,4 @@
     background-color: #4EA8DE;
   }
 
-  .task .taskListStatus {
-    margin: 2rem;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-end;
-    padding: 0px;
-    gap: 561px;
-
-
-
-
-    /* Inside auto layout */
-
-    flex: none;
-    order: 0;
-    align-self: stretch;
-    flex-grow: 0;
-  }
+ 
